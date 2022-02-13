@@ -42,7 +42,7 @@ cursor.execute("create table kollywood_movies (movie_name text,lead_actor text,l
 Kmovie_list = [
     ("Indru Netru Naalai","Vishnu","Miya George","R.Ravi Kumar",2015),
     ("Jai Bhim","Surya","Lijomol Jose","TJ Gnanavel",2021),
-    ("Doctor","Sivakarthikeyan","Priyanka Mohan","Nelson Diipkumar",2021),
+    ("Doctor","Sivakarthikeyan","Priyanka Mohan","Nelson Dilipkumar",2021),
     ("Nanban","Vijay","Ileana D'Cruz","S.Sankar",2012)
     ]
 
